@@ -87,9 +87,9 @@ Built for seekers, watchmen, and wanderers of the metaphysical path.
 
 ## 📎 Links
 
-- 🔗 Live Project: [baseerah.vercel.app](https://baseerah.vercel.app) *(Coming soon)*
+- 🔗 Live Project: *(Coming soon)*
 - 🔗 GitHub Repo: [github.com/Asnan07/Baseerah](https://github.com/Asnan07/Baseerah)
-- 🔗 Blogfolio: [yourdomain.com](https://yourdomain.com) *(Replace with your actual domain)*
+- 🔗 Blogfolio: [asnan07.github.io](https://asnan07.github.io) 
 
 ---
 
